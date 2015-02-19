@@ -1,0 +1,35 @@
+<resources>
+
+    <string name="app_name">AA_Horoscope</string>
+    
+    <string name="signe0">Capricorne</string>
+    <string name="signe1">Bélier</string>
+    <string name="signe2">Verseau</string>
+    <string name="signe3">Cancer</string>
+    <string name="signe4">Sagitaire</string>
+    <string name="signe5">Signe</string>
+    <string name="signe6">Signe</string>
+    <string name="signe7">Lion</string>
+    <string name="signe8">Vierge</string>
+    <string name="signe9">Balance</string>
+    <string name="signe10">Scorpion</string>
+    <string name="signe11">Signe</string>
+
+    <string name="prevision0">Aucune influence de Mars ou des autres planètes sur votre vie</string>
+    <string name="prevision1">Aucune influence de Neptune ou des autres planètes sur votre vie</string>
+    <string name="prevision2">Aucune influence de Pluton ou des autres planètes sur votre vie</string>
+    <string name="prevision3">Aucune influence de Vénus ou des autres planètes sur votre vie</string>
+    <string name="prevision4">Aucune influence d\'alpha du Centaure ou des autres planètes sur votre vie</string>
+    <string name="prevision5">Aucune influence de la lune ou des autres planètes sur votre vie</string>
+    <string name="prevision6">Aucune influence d\'Arrakis ou des autres planètes sur votre vie</string>
+    <string name="prevision7">Aucune influence d\'Alderaan ou des autres planètes sur votre vie</string>
+    <string name="prevision8">Aucune influence de Bespin ou des autres planètes sur votre vie</string>
+    <string name="prevision9">Aucune influence de Coruscant ou des autres planètes sur votre vie</string>
+    <string name="prevision10">Aucune influence de Dagobah ou des autres planètes sur votre vie</string>
+    <string name="prevision11">Aucune influence d\'Endor ou des autres planètes sur votre vie</string>
+    
+    
+    
+    <string name="consigne">Appuyez sur Back/Retour</string>
+    
+</resources>

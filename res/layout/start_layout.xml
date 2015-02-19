@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center_horizontal|center_vertical|fill|fill_horizontal"
+    android:alignmentMode="alignBounds"
+    android:columnCount="3"
+    android:layoutMode="opticalBounds"
+    android:rowCount="4" android:padding="20dp">
+    
+    <Button android:id="@+id/bs0" android:text="@string/signe0" android:padding="5dip" />
+    <Button android:id="@+id/bs1" android:text="@string/signe1" android:padding="5dip"/>
+    <Button android:id="@+id/bs2" android:text="@string/signe2" android:padding="5dip"/>
+    <Button android:id="@+id/bs3" android:text="@string/signe3" android:padding="5dip"/>
+    <Button android:id="@+id/bs4" android:text="@string/signe4" android:padding="5dip"/>
+    <Button android:id="@+id/bs5" android:text="@string/signe5" android:padding="5dip"/>
+    <Button android:id="@+id/bs6" android:text="@string/signe6" android:padding="5dip"/>
+    <Button android:id="@+id/bs7" android:text="@string/signe7" android:padding="5dip"/>
+    <Button android:id="@+id/bs8" android:text="@string/signe8" android:padding="5dip"/>
+    <Button android:id="@+id/bs9" android:text="@string/signe9" android:padding="5dip"/>
+    <Button android:id="@+id/bs10" android:text="@string/signe10" android:padding="5dip"/>
+    <Button android:id="@+id/bs11" android:text="@string/signe11" android:padding="5dip"/>
+    
+
+</GridLayout>
